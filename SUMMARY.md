@@ -1,6 +1,6 @@
 # Table of contents
 
-* [team](README.md)
+* [🏭 Purpose of Canopy](README.md)
 * [🍎 Page](page.md)
 * [.github](.github/README.md)
   * [ISSUE\_TEMPLATE](.github/ISSUE\_TEMPLATE/README.md)
