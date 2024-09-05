@@ -18,7 +18,7 @@ layout:
     visible: false
 ---
 
-# 🏭 Purpose of Company
+# Purpose of Company
 
 Babb's purpose is to help businesses operate and endure.
 
