@@ -23,8 +23,8 @@
 * [CBAs](company/cbas.md)
 * [CP](company/cp.md)
 
-## BASICS
+## PROTOCOLS
 
-* [Assistance System](basics/assistance-system.md)
-* [SIMBA](basics/simba.md)
-* [Workpads](basics/workpads.md)
+* [BASICS](protocols/basics.md)
+* [SIMBA](protocols/simba.md)
+* [Workpads](protocols/workpads.md)
