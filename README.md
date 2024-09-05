@@ -1,6 +1,2 @@
----
-hidden: true
----
-
-# .github
+# Welcome
 
