@@ -9,13 +9,17 @@
 
 ## Company
 
-* [Purpose](company/readme.md)
-* [Mission](company/mission.md)
+* [Purpose](company/readme/README.md)
+  * [All Ages](company/readme/all-ages.md)
+  * [Kids](company/readme/kids.md)
+* [Mission](company/mission/README.md)
+  * [Around the World](company/mission/around-the-world.md)
+  * [Across the Cosmos](company/mission/across-the-cosmos.md)
 * [Vision](company/vision/README.md)
   * [Operational Autonomy](company/vision/operational-autonomy.md)
   * [Educational Opportunities](company/vision/educational-opportunities.md)
   * [Tools that Talk](company/vision/tools-that-talk.md)
-  * [Highly Durable Devices](company/vision/highly-durable-devices.md)
+  * [Durable Devices](company/vision/durable-devices.md)
 * [CBAs](company/cbas.md)
 * [CP](company/cp.md)
 

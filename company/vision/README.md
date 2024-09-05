@@ -15,5 +15,5 @@ layout:
 
 # Vision
 
-> **Access to **_**operational autonomy**_** and **_**educational opportunities**_** from anywhere on Earth - via 'tools that talk' and highly durable devices.**
+> **Access to **_**operational autonomy**_** and **_**educational opportunities**_** from anywhere in the Universe - via 'tools that talk' and highly durable devices.**
 
