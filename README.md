@@ -1,4 +1,5 @@
 ---
+description: Why does Babb exist?
 cover: .gitbook/assets/32685092804_8b1b7ae1e1_o.png
 coverY: 0
 layout:
@@ -10,12 +11,15 @@ layout:
   description:
     visible: true
   tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
     visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
-# 🏭 Purpose of Canopy
+# 🏭 Purpose of Company
 
+Babb's purpose is to help businesses operate and endure.
+
+We achieve our purpose by sustaining a **Coordination Protocol** for the _creation & operation_ of Common Business Applications (CBAs).
