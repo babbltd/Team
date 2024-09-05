@@ -14,6 +14,8 @@
 * [Vision](company/vision/README.md)
   * [Operational Autonomy](company/vision/operational-autonomy.md)
   * [Educational Opportunities](company/vision/educational-opportunities.md)
+  * [Tools that Talk](company/vision/tools-that-talk.md)
+  * [Highly Durable Devices](company/vision/highly-durable-devices.md)
 * [CBAs](company/cbas.md)
 * [CP](company/cp.md)
 
