@@ -11,7 +11,10 @@
 
 * [Purpose](company/readme.md)
 * [Mission](company/mission.md)
-* [Vision](company/vision.md)
+* [Vision](company/vision/README.md)
+  * [Operational Autonomy](company/vision/operational-autonomy.md)
+  * [Educational Opportunities](company/vision/educational-opportunities.md)
+* [CBAs](company/cbas.md)
 * [CP](company/cp.md)
 
 ## BASICS

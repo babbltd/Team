@@ -15,6 +15,6 @@ layout:
 
 # Purpose
 
-Babb's purpose is to help businesses operate and endure.
+> **Help businesses start, operate and endure.**
 
-We achieve our purpose by sustaining a **Coordination Protocol** for the _creation & operation_ of Common Business Applications (CBAs).
+We pursue our purpose by sustaining a **Coordination Protocol** for the _creation & operation_ of Common Business Applications (CBAs).
