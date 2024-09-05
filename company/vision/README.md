@@ -1,5 +1,5 @@
 ---
-description: What do we think is achievable?
+description: What can be achieved in the long-term?
 layout:
   title:
     visible: true

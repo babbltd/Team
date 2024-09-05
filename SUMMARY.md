@@ -20,6 +20,7 @@
   * [Educational Opportunities](company/vision/educational-opportunities.md)
   * [Tools that Talk](company/vision/tools-that-talk.md)
   * [Durable Devices](company/vision/durable-devices.md)
+* [Values](company/values.md)
 * [CBAs](company/cbas.md)
 * [CP](company/cp.md)
 
